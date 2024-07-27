@@ -12,6 +12,7 @@ body{
     align-items: center;
     margin: 50px 50px;
    border-radius: 16px;
+   
 }
 .logo{
 
@@ -39,3 +40,81 @@ body{
 
     color: rgb(255, 84, 0);;
 }
+
+
+
+
+
+
+
+
+
+/* explore part */
+
+
+#explore-h2{
+
+    font-size: 64px;
+    font-weight: 800px;
+    
+}
+
+
+.Explore-container{
+
+    align-items: center;
+    text-align: center;
+    background-image:url(./Images/Group\ 13\ \(1\)\ \(1\).png);
+
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+
+    border-radius: 16px;
+color: white;
+padding: 100px 100px;
+
+
+    
+}
+
+
+#explore-p{
+
+    
+}
+
+.select-option{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px ;
+     padding: 20px;
+    
+     margin-left: 180px;
+     margin-right: 180px;
+     border-radius: 10px;
+     background: rgba(165, 160, 160, 0.6);
+     backdrop-filter: blur(1px);
+     
+    
+
+text-align: center;
+    
+    
+}
+
+/* input-type */
+
+#input{
+
+height:50px;
+border: 2px solid green;
+
+width: 174px;
+border-radius: 10px;
+padding-left: 10px;
+color: black;
+}
+
